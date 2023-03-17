@@ -1,0 +1,66 @@
+body{
+  background:url(image/Background.jpeg);
+  padding-left: 10px !important;
+  font: x-small sans-serif;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+body, h1, h2, h3, h4, h5, h6, table, #content, div#content, #contentSub, #contentSub2, .faction-navlist-title, .template-navlist-title, .infobox-name, .infobox-data-title, .infobox-section, .mainpage-section-title, .usermessage, div.noarticletext {
+    color: #87C3E0 !important;
+}
+#content{
+  background: url(image/Wall.jpg) !important;
+  border: 1px solid;
+  line-height: 1.5em !important;
+  margin: 50px;
+  border-style: solid solid solid solid !important;
+  border-width: 1px 1px 1px 1px !important;
+  border-color: #202653 !important;
+  padding: 0 1em 1em;
+  position: relative;
+  z-index: 2;
+}
+#bodyContent h1, #bodyContent h2 {
+  margin-bottom: .6em;
+}
+#title {
+    margin-bottom: .1em;
+    line-height: 1.2em;
+    padding-bottom: 0;
+}
+.title {
+    margin-top: 0.4em;
+    margin-bottom: 0.1em;
+    padding-top: 0;
+    overflow: visible;
+}
+a, a:active, a.stub, a:visited, #bodyContent a.external, #p-cactions li a {
+  color: #CDDAE0 !important;
+}
+a {
+  text-decoration: none;
+  background: none;
+}
+h1, h2, h3, h4, h5, h6 {
+  background: none;
+  font-weight: 400;
+  font-family: "Agency FB",Verdana,Arial,sans-serif;
+  margin: 0;
+  padding-top: .5em;
+  padding-bottom: .17em;
+  border-bottom: 1px solid #aaa;
+}
+ul {
+  margin: 0.3em 0 0 1.6em;
+  padding: 0;
+  line-height: 1.5em;
+  list-style-position: inside;
+  list-style-type: square;
+  padding: 0;
+  display: block;
+}
+li {
+  margin-bottom: .2em;
+  display: list-item;
+}
